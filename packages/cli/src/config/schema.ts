@@ -237,7 +237,7 @@ export const schema = {
 	defaultLocale: {
 		doc: 'Default locale for the UI',
 		format: String,
-		default: 'en',
+		default: 'fa',
 		env: 'N8N_DEFAULT_LOCALE',
 	},
 
